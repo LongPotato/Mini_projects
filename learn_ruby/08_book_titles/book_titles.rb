@@ -6,7 +6,7 @@ class Book
 		@words = string.split(" ")
 		@new_title = ""
 		@new_title << @words[0].capitalize + " " 	#capitalize the first word
-		for n in 1...@words.length 					#start off with the second word
+		for n in 1...@words.length 			#start off with the second word
 		    if (@@special_case.include? @words[n])
 		        @new_title << @words[n] + " "
 			else
