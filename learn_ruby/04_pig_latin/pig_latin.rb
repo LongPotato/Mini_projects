@@ -1,5 +1,5 @@
 def translate(string)
-    words = string.split(" ")
+    	words = string.split(" ")
 	vowel = ['a','e','i','o','y'] 	#u is a special case
 	words.map! do |word| 
 	    counter = 0
