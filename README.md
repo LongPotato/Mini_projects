@@ -1,4 +1,4 @@
-# Mini_projects README
+# Mini_projects
 
 This folder contain mini codes that I made for studying, practicing purpose
 
