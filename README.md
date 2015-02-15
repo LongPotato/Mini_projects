@@ -7,5 +7,5 @@ The code generates a grid of squares base on user input and those squares change
 
 Learn_ruby contains small ruby functions to practice with specification (testing) using Rspec.
 
-Slider is an image slide show that can be embeded later on to other website
+Slider is an image slideshow that can be embeded later on to other website
 
