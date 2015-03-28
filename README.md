@@ -15,6 +15,7 @@ View the assignment at [TetstFirst](http://testfirst.org/learn_ruby)
 
 ###Slider 
 An mini image slideshow written in CSS, HTML and JS
-. View it [here](http://htmlpreview.github.io/?https://github.com/LongPotato/Mini_projects/blob/master/slider/index.html)
+
+View it [here](http://htmlpreview.github.io/?https://github.com/LongPotato/Mini_projects/blob/master/slider/index.html)
 
 
